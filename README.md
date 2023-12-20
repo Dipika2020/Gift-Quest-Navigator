@@ -21,15 +21,16 @@ Utilizes Pygame for visual representation, displaying the movement and navigatio
 4. User Interface
 Offers a user-friendly interface for inputting map configurations and observing the pathfinding process visually.
 
-Installation
-Prerequisites
-Python 3.x
-Pygame library
+Installation Prerequisites
+- Python 3.x
+- Pygame library
+  
 Steps
-Clone the repository: git clone <repository_url>
-Install required dependencies: pip install -r requirements.txt
-Run the program: python main.py <algorithm_type>
-Replace <algorithm_type> with one of the following: ids, a_star, bd_bfs, ucs
+- Clone the repository: git clone <repository_url>
+- Install required dependencies: pip install -r requirements.txt
+- Run the program: python main.py <algorithm_type>
+- Replace <algorithm_type> with one of the following: ids, a_star, bd_bfs, ucs
+
 Usage
-Launching the Program: Run main.py with the chosen algorithm type.
-Interface Interaction: Follow on-screen prompts to observe Santa's sleigh navigating the map.
+- Launching the Program: Run main.py with the chosen algorithm type.
+- Interface Interaction: Follow on-screen prompts to observe Santa's sleigh navigating the map.
